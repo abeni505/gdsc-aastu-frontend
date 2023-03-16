@@ -1,0 +1,17 @@
+body{
+    background-color: wheat ;
+
+
+}
+.everything {
+    border: 2px solid black;
+    padding-left: 2% ;
+    padding-right: 2%;
+    width: 50%;
+    margin: auto;
+    box-shadow: 2px;
+
+}
+h1 {
+   text-align: center;
+}
